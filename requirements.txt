@@ -7,6 +7,6 @@ langchain-google-genai==1.0.5
 langchain-text-splitters==0.2.0
 langchainhub==0.1.17
 sentence-transformers==2.2.2
-torch==2.3.0
+torch==2.7.1
 pypdf==4.2.0
 chromadb>=0.3.28
